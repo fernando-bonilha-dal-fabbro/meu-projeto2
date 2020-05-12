@@ -1,3 +1,3 @@
 # meu-projeto2
-inclui esta linha 
-e esta
+retirei as linhas
+inseri esta linha
